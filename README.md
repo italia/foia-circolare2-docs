@@ -1,7 +1,7 @@
-Circolare n. 2 del 2017. Attuazione delle norme sull’accesso civico generalizzato - c.d. FOIA
+Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato - c.d. FOIA
 =============================================================================================
 
-Questo repository contiene la documentazione relativa al Freedom of Information Act. 
+Questo repository contiene la documentazione relativa alla circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato - c.d. FOIA (Freedom of Information Act).
 
 Link
 ----

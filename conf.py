@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Circolare n. 2 del 2017. Attuazione delle norme sull’accesso civico generalizzato - c.d. FOIA"
+settings_project_name = "Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato - c.d. FOIA"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Circolare n. 2 del 2017. Attuazione delle norme sull’accesso civico generalizzato - c.d. FOIA'
-settings_file_name = 'Circolare n. 2 del 2017. Attuazione delle norme sull’accesso civico generalizzato - c.d. FOIA'
+settings_basename = 'Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato - c.d. FOIA'
+settings_file_name = 'Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato - c.d. FOIA'
 
 # -- No need to change below here
 
