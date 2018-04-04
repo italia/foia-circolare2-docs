@@ -64,4 +64,4 @@ Segue un elenco esemplificativo dei dati rilevanti:
 -  Ricorso al giudice amministrativo o Data di comunicazione del provvedimento all’amministrazione o Esito: Accoglimento (accesso consentito); Rifiuto parziale; Rifiuto totale.
 
 .. [1]
-   1 Per fascicolo procedimentale si intende una unità archivistica atta ad aggregare documenti e metadati specifici raccolti o generati durante la trattazione di un’istanza di qualunque procedimento amministrativo.
+   Per fascicolo procedimentale si intende una unità archivistica atta ad aggregare documenti e metadati specifici raccolti o generati durante la trattazione di un’istanza di qualunque procedimento amministrativo.
