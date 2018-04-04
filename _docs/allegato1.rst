@@ -3,7 +3,7 @@ ALLEGATO 1: PRESENTAZIONE DELLA RICHIESTA DI ACCESSO
 
 Ai fini di una corretta gestione della richiesta di accesso sarebbe opportuno prevedere – all’interno della modulistica o del servizio on-line previsto per il FOIA – il set minimo di informazioni descritto nei seguenti paragrafi.
 
-1 Informazioni *online* per la presentazione della richiesta
+1. Informazioni *online* per la presentazione della richiesta
 ------------------------------------------------------------
 
 È opportuno che l’Amministrazione fornisca le informazioni per la corretta presentazione della richiesta con la modulistica resa disponibile nella pagina del sito istituzionale dedicata all’”Accesso generalizzato”.

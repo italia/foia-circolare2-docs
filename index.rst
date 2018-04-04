@@ -18,15 +18,10 @@ A differenza del diritto di accesso procedimentale o documentale (regolato dalla
 A differenza del diritto di accesso civico "semplice" (regolato dal d. lgs. n. 33/2013), che consente di accedere esclusivamente alle informazioni che rientrano negli obblighi di pubblicazione previsti dalla legge (in particolare, dal decreto legislativo n. 33 del 2013), l'accesso civico generalizzato si estende a tutti i dati e i documenti in possesso delle pubbliche amministrazioni, all'unica condizione che siano tutelati gli interessi pubblici e privati espressamente indicati dalla legge.
 
 
-
 Alle Amministrazioni pubbliche di cui all'art.1, comma 2 del decreto legislativo 30 marzo 2001 n.165
 
 Alle Autorità indipendenti
 
-**Circolare n. 2/2017**
-
-Attuazione delle norme sull'accesso civico generalizzato (c.d. FOIA)
---------------------------------------------------------------------
 
 .. toctree::
 

@@ -34,19 +34,16 @@ Pertanto, il diritto di accesso generalizzato:
 Dal carattere fondamentale del diritto di accesso generalizzato e dal principio di pubblicità e conoscibilità delle informazioni in possesso delle pubbliche amministrazioni derivano alcune implicazioni di carattere generale che è opportuno richiamare, in quanto utili come criteri guida nell'applicazione della normativa in esame.
 
 *i) Il principio della tutela preferenziale dell'interesse conoscitivo*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nei sistemi FOIA, il diritto di accesso va applicato tenendo conto della tutela preferenziale dell'interesse a conoscere. Pertanto, nei casi di dubbio circa l'applicabilità di una eccezione\ *,* le amministrazioni dovrebbero dare prevalenza all'interesse conoscitivo che la richiesta mira a soddisfare (v. anche Linee guida A.N.AC., § 2.1.).
 
 In base a questo principio, dato che l'istituto dell'accesso generalizzato assicura una più ampia tutela all'interesse conoscitivo, qualora non sia specificato un diverso titolo giuridico della domanda (ad es. procedimentale, ambientale, ecc.), la stessa dovrà essere trattata dall'amministrazione come richiesta di accesso generalizzato.
 
 *ii) Il criterio del minor aggravio possibile nell'esercizio del diritto*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sul piano procedimentale, il principio appena richiamato dovrebbe indurre le pubbliche amministrazioni a privilegiare il criterio del minor aggravio possibile nell'esercizio del diritto di accesso generalizzato. In particolare, in assenza di una espressa previsione legislativa che le autorizzi, le amministrazioni non possono pretendere dal richiedente l'adempimento di formalità o oneri procedurali, ponendoli come condizioni di ammissibilità della domanda di accesso. Salvo quanto specificato più avanti (§ 3), si deve ritenere in linea di principio contraria alle finalità della disciplina legislativa in tema di accesso generalizzato la possibilità di dichiarare inammissibile una domanda di accesso generalizzato per motivi formali o procedurali.
 
 *iii) I limiti all'adozione di regolamenti interni*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Qualora una pubblica amministrazione decida di adottare un regolamento interno in materia di accesso, come suggerito nelle suddette Linee guida dell'A.N.AC. (§ 3.1), occorre tener conto della riserva di legge prevista dall'art. 10 della CEDU, che copre il diritto di accesso generalizzato in esame (Linee guida A.N.AC., § 2.1).
 
