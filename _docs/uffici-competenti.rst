@@ -37,7 +37,7 @@ Nel caso in cui i dati o documenti richiesti siano detenuti dal responsabile del
 4.4. La individuazione di "centri di competenza" (c.d. help desk)
 -----------------------------------------------------------------
 
-Nelle Linee guida ANAC si raccomanda alle amministrazioni, "Al fine di rafforzare il coordinamento dei comportamenti sulle richieste di accesso (…) ad adottare anche adeguate soluzioni organizzative", in particolare individuando "risorse professionali adeguate, che si specializzano nel tempo" e "che, ai fini istruttori, dialog[hino] con gli uffici che detengono i dati richiesti".
+Nelle Linee guida A.N.AC. si raccomanda alle amministrazioni, "Al fine di rafforzare il coordinamento dei comportamenti sulle richieste di accesso (…) ad adottare anche adeguate soluzioni organizzative", in particolare individuando "risorse professionali adeguate, che si specializzano nel tempo" e "che, ai fini istruttori, dialog[hino] con gli uffici che detengono i dati richiesti".
 
 Dunque, ciascuna amministrazione è invitata a individuare le unità di personale, adeguatamente formate, che assicurino le funzioni di "centro di competenza" o "\ *help desk*\ ", al fine di assistere gli uffici della medesima amministrazione nella trattazione delle singole domande (v. anche A.N.AC. del. n. 1309/2016).
 
