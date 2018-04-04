@@ -7,7 +7,7 @@ n. 33/2013. A tal fine, è auspicabile che ciascuna amministrazione fornisca, co
 
 Le amministrazioni sono invitate, in particolare, a predisporre un modulo di riesame già compilato e pronto per l’invio o soluzioni digitali equivalenti. Nel modulo dovrebbero essere inseriti i seguenti elementi:
 
--  dati anagrafici, residenza e contatti del richiedente (v. anche Allegato 1, § 1.2, sub *a*, *b* e *c*);
+-  dati anagrafici, residenza e contatti del richiedente;
 
 -  gli estremi della decisione amministrativa oggetto della domanda di riesame;
 

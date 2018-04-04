@@ -13,7 +13,7 @@ Nel trattare una richiesta, è necessario che l'amministrazione instauri un "dia
 
 - chiedere a chi formula la richiesta di identificarsi, nel caso in cui non lo abbia fatto;
 
-- chiedere eventuali chiarimenti circa l'oggetto della richiesta o, in caso di manifesta irragionevolezza (*supra*, § 7, lett. *d*), una sua ridefinizione;
+- chiedere eventuali chiarimenti circa l'oggetto della richiesta o, in caso di manifesta irragionevolezza, una sua ridefinizione;
 
 - confermare che l'invio dei dati o documenti richiesti avverrà in formato digitale, salvo che una diversa modalità di trasmissione sia stata indicata dal richiedente e non risulti eccessivamente onerosa per l'amministrazione;
 
@@ -30,7 +30,7 @@ Nel trattare una richiesta, è necessario che l'amministrazione instauri un "dia
 8.1. Rapporti con i media e le organizzazioni della società civile
 ------------------------------------------------------------------
 
-Ferma restando la necessità di istruire in modo completo e accurato ogni singola richiesta di accesso a prescindere dall'identità del richiedente, nel più rigoroso rispetto dei principi di buon andamento e imparzialità dell'azione amministrativa, occorre tener conto della particolare rilevanza, ai fini della promozione di un dibattito pubblico informato, delle domande di accesso provenienti da giornalisti e organi di stampa o da organizzazioni non governative, cioè da soggetti riconducibili alla categoria dei "\ *social watchdogs*\ " cui fa riferimento anche la giurisprudenza della Corte europea dei diritti dell'uomo (da ultimo, caso *Magyar c. Ungheria*, 8 novembre 2016, § 165). Nel caso in cui la richiesta di accesso provenga da soggetti riconducibili a tale categoria, si raccomanda alle amministrazioni di verificare con la massima cura la veridicità e la attualità dei dati e dei documenti rilasciati, per evitare che il dibattito pubblico si fondi su informazioni non affidabili o non aggiornate.
+Ferma restando la necessità di istruire in modo completo e accurato ogni singola richiesta di accesso a prescindere dall'identità del richiedente, nel più rigoroso rispetto dei principi di buon andamento e imparzialità dell'azione amministrativa, occorre tener conto della particolare rilevanza, ai fini della promozione di un dibattito pubblico informato, delle domande di accesso provenienti da giornalisti e organi di stampa o da organizzazioni non governative, cioè da soggetti riconducibili alla categoria dei "\ *social watchdogs*\ " cui fa riferimento anche la giurisprudenza della Corte europea dei diritti dell'uomo (da ultimo, caso *Magyar c. Ungheria*, 8 novembre 2016). Nel caso in cui la richiesta di accesso provenga da soggetti riconducibili a tale categoria, si raccomanda alle amministrazioni di verificare con la massima cura la veridicità e la attualità dei dati e dei documenti rilasciati, per evitare che il dibattito pubblico si fondi su informazioni non affidabili o non aggiornate.
 
 8.2. Pubblicazione proattiva
 ----------------------------

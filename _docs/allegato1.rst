@@ -36,7 +36,7 @@ c) **Informazioni di contatto (recapiti del richiedente)**
 
 -  Domicilio (se diverso da residenza)
 
-Queste informazioni possono essere utili sia per instaurare un dialogo con il richiedente (§ 8 della circolare), sia per trasmettere i dati e i documenti richiesti. Con il consenso del richiedente, è opportuno privilegiare la comunicazione in forma elettronica.
+Queste informazioni possono essere utili sia per instaurare un dialogo con il richiedente, sia per trasmettere i dati e i documenti richiesti. Con il consenso del richiedente, è opportuno privilegiare la comunicazione in forma elettronica.
 
 d) **Oggetto della richiesta**
 

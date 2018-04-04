@@ -1,7 +1,7 @@
 4. Gli uffici competenti
 ========================
 
-Per quanto riguarda l’organizzazione interna, ad integrazione di quanto raccomandato nelle Linee guida A.N.AC. (§ 3.2), si osserva quanto segue.
+Per quanto riguarda l’organizzazione interna, ad integrazione di quanto raccomandato nelle Linee guida A.N.AC., si osserva quanto segue.
 
 La disciplina dettata dall’art. 5 del d.lgs. n. 33/2013 presuppone la distinzione tra diverse tipologie di competenze: a ricevere le richieste, a decidere su di esse, e a decidere sulle richieste di riesame. Di seguito, sono illustrate le implicazioni organizzative di questa distinzione.
 
@@ -16,11 +16,11 @@ Per quanto riguarda gli uffici competenti a ricevere la domanda, l’art. 5, c. 
 
 -  ad altro ufficio indicato dall’amministrazione nella sezione "Amministrazione trasparente" del sito istituzionale.
 
-Tutti gli uffici sopra indicati sono competenti a ricevere le domande di accesso generalizzato e, nel caso in cui non coincidano con l’ufficio competente a decidere sulle medesime (§ 4.2), devono trasmetterle a quest’ultimo tempestivamente.
+Tutti gli uffici sopra indicati sono competenti a ricevere le domande di accesso generalizzato e, nel caso in cui non coincidano con l’ufficio competente a decidere sulle medesime, devono trasmetterle a quest’ultimo tempestivamente.
 
 Nel caso in cui sia palese che la domanda è stata erroneamente indirizzata a un’amministrazione diversa da quella che detiene i dati o documenti richiesti, l’ufficio ricevente deve inoltrare tempestivamente la domanda all’amministrazione competente e darne comunicazione al richiedente, specificando che il termine di conclusione del procedimento decorre dalla data di ricevimento della richiesta da parte dell’ufficio competente.
 
-Il responsabile della prevenzione della corruzione e della trasparenza può ricevere soltanto le domande di accesso civico semplice, riguardanti "dati, informazioni o documenti oggetto di pubblicazione obbligatoria" (art. 5, c. 3, d.lgs. n. 33/2013). Nel caso in cui una domanda di accesso generalizzato sia stata erroneamente inviata al responsabile della prevenzione della corruzione e della trasparenza, quest’ultimo provvede a inoltrare tempestivamente la stessa all’ufficio competente a decidere sulla domanda (§ 4.2).
+Il responsabile della prevenzione della corruzione e della trasparenza può ricevere soltanto le domande di accesso civico semplice, riguardanti "dati, informazioni o documenti oggetto di pubblicazione obbligatoria" (art. 5, c. 3, d.lgs. n. 33/2013). Nel caso in cui una domanda di accesso generalizzato sia stata erroneamente inviata al responsabile della prevenzione della corruzione e della trasparenza, quest’ultimo provvede a inoltrare tempestivamente la stessa all’ufficio competente a decidere sulla domanda.
 
 4.2. La competenza a decidere sulla domanda
 -------------------------------------------
