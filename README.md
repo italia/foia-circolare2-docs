@@ -8,4 +8,4 @@ Link
 
 Link alla [Documentazione compilata su Docs Italia](http://foia-circolare2.readthedocs.io/).
 
-Link al [Circolare n. 2 /2017](http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/CIR_FOIA_REVe.pdf).
+Link alla [Circolare n. 2 /2017](http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/CIR_FOIA_REVe.pdf) in originale.
