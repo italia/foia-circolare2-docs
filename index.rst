@@ -25,7 +25,7 @@ Alle Autorità indipendenti
 
 .. toctree::
 
-   _docs/premesse.rst
+   _docs/premessa.rst
    _docs/indicazioni-preliminari.rst
    _docs/modalita.rst
    _docs/uffici-competenti.rst
