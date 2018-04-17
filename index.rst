@@ -13,12 +13,12 @@ Giornalisti, organizzazioni non governative, imprese, i cittadini italiani e str
 
 L'accesso civico generalizzato, istituito dalla normativa FOIA, differisce dalle altre due principali tipologie di accesso già previste dalla legislazione.
 
-A differenza del diritto di accesso procedimentale o documentale (regolato dalla `legge n. 241/1990 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`), garantisce al cittadino la possibilità di richiedere dati e documenti alle pubbliche amministrazioni, senza dover dimostrare di possedere un interesse qualificato.
+A differenza del diritto di accesso procedimentale o documentale (regolato dalla `legge n. 241/1990 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`_), garantisce al cittadino la possibilità di richiedere dati e documenti alle pubbliche amministrazioni, senza dover dimostrare di possedere un interesse qualificato.
 
-A differenza del diritto di accesso civico "semplice" (regolato dal `d. lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`), che consente di accedere esclusivamente alle informazioni che rientrano negli obblighi di pubblicazione previsti dalla legge (in particolare, dal `decreto legislativo n. 33 del 2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`), l'accesso civico generalizzato si estende a tutti i dati e i documenti in possesso delle pubbliche amministrazioni, all'unica condizione che siano tutelati gli interessi pubblici e privati espressamente indicati dalla legge.
+A differenza del diritto di accesso civico "semplice" (regolato dal `d. lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_), che consente di accedere esclusivamente alle informazioni che rientrano negli obblighi di pubblicazione previsti dalla legge (in particolare, dal `decreto legislativo n. 33 del 2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_), l'accesso civico generalizzato si estende a tutti i dati e i documenti in possesso delle pubbliche amministrazioni, all'unica condizione che siano tutelati gli interessi pubblici e privati espressamente indicati dalla legge.
 
 
-Alle Amministrazioni pubbliche di cui all'art.1, comma 2 del `decreto legislativo 30 marzo 2001 n.165 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165!vig=>`.
+Alle Amministrazioni pubbliche di cui all'art.1, comma 2 del `decreto legislativo 30 marzo 2001 n.165 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165!vig=>`_.
 
 Alle Autorità indipendenti
 
