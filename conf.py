@@ -7,8 +7,8 @@ settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato'
-settings_file_name = 'Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato'
+settings_basename = "Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato"
+settings_file_name = "Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato"
 
 # -- No need to change below here
 
