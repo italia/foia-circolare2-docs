@@ -14,7 +14,7 @@ c) l'accesso ai documenti oggetto degli obblighi di pubblicazione, di cui all'ar
 
 d) l'accesso ai dati e ai documenti in possesso delle pubbliche amministrazioni, di cui all'art. 5, comma 2, del decreto trasparenza è di seguito indicato come "accesso civico generalizzato" o "accesso generalizzato";
 
-e) le "Linee guida recanti indicazioni operative ai fini della definizione delle esclusioni e dei limiti all'accesso civico" adottate ai sensi dell'art. 5, c. 2, del `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_ dall'Autorità nazionale anticorruzione con `delibera n. 1309 del 28 dicembre 2016 https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Atti/determinazioni/2016/1309/del.1309.2016.det.LNfoia.pdf>`_, sono di seguito indicate come "Linee guida A.N.AC.".
+e) le "Linee guida recanti indicazioni operative ai fini della definizione delle esclusioni e dei limiti all'accesso civico" adottate ai sensi dell'art. 5, c. 2, del `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_ dall'Autorità nazionale anticorruzione con `delibera n. 1309 del 28 dicembre 2016 <https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Atti/determinazioni/2016/1309/del.1309.2016.det.LNfoia.pdf>`_, sono di seguito indicate come "Linee guida A.N.AC.".
 
 2.2. Criteri applicativi di carattere generale
 ----------------------------------------------
