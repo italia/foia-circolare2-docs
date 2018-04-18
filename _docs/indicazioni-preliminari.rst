@@ -6,26 +6,26 @@
 
 Di seguito, si forniscono alcune precisazioni terminologiche utili ai fini della presente Circolare. Queste precisazioni corrispondono a quelle già indicate nelle richiamate Linee Guida A.N.AC.:
 
-a) il d.lgs. n. 33/2013, come modificato dal d.lgs. n. 97/2016, è di seguito indicato come "decreto trasparenza";
+a) il `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_, come modificato dal `d.lgs. n. 97/2016 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97>`_, è di seguito indicato come "decreto trasparenza";
 
-b) l'accesso disciplinato dal capo V della legge n. 241/1990 è di seguito indicato come "accesso procedimentale" o "accesso documentale";
+b) l'accesso disciplinato dal capo V della `legge n. 241/1990 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`_ è di seguito indicato come "accesso procedimentale" o "accesso documentale";
 
 c) l'accesso ai documenti oggetto degli obblighi di pubblicazione, di cui all'art. 5, comma 1, del decreto trasparenza, è di seguito indicato come "accesso civico" o "accesso civico semplice";
 
 d) l'accesso ai dati e ai documenti in possesso delle pubbliche amministrazioni, di cui all'art. 5, comma 2, del decreto trasparenza è di seguito indicato come "accesso civico generalizzato" o "accesso generalizzato";
 
-e) le "Linee guida recanti indicazioni operative ai fini della definizione delle esclusioni e dei limiti all'accesso civico" adottate ai sensi dell'art. 5, c. 2, del d.lgs. n. 33/2013 dall'Autorità nazionale anticorruzione con delibera n. 1309 del 28 dicembre 2016, sono di seguito indicate come "Linee guida A.N.AC.".
+e) le "Linee guida recanti indicazioni operative ai fini della definizione delle esclusioni e dei limiti all'accesso civico" adottate ai sensi dell'art. 5, c. 2, del `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_ dall'Autorità nazionale anticorruzione con `delibera n. 1309 del 28 dicembre 2016 https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Atti/determinazioni/2016/1309/del.1309.2016.det.LNfoia.pdf>`_, sono di seguito indicate come "Linee guida A.N.AC.".
 
 2.2. Criteri applicativi di carattere generale
 ----------------------------------------------
 
-Con il d.lgs. n. 97/2016, l'ordinamento italiano ha riconosciuto la libertà di accedere alle informazioni in possesso delle pubbliche amministrazioni come diritto fondamentale, in conformità all'art. 10 della Convenzione europea dei diritti dell'uomo (CEDU). Come chiarito nelle Linee guida A.N.AC., l'accesso generalizzato mira a rafforzare il carattere democratico dell'ordinamento, promuovendo un dibattito pubblico informato e un controllo diffuso sull'azione amministrativa (art. 5, c. 2, d.lgs. n. 33/2013).
+Con il `d.lgs. n. 97/2016 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97>`_, l'ordinamento italiano ha riconosciuto la libertà di accedere alle informazioni in possesso delle pubbliche amministrazioni come diritto fondamentale, in conformità all'art. 10 della Convenzione europea dei diritti dell'uomo (CEDU). Come chiarito nelle Linee guida A.N.AC., l'accesso generalizzato mira a rafforzare il carattere democratico dell'ordinamento, promuovendo un dibattito pubblico informato e un controllo diffuso sull'azione amministrativa (art. 5, c. 2, `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_).
 
-Come noto, il nuovo istituto differisce dalle altre due tipologie di accesso previste dalla legge. A differenza del diritto di accesso procedimentale o documentale, il diritto di accesso generalizzato garantisce il bene "conoscenza" in via autonoma, a prescindere dalla titolarità di un interesse qualificato e differenziato. A differenza del diritto di accesso civico "semplice", che riguarda esclusivamente le informazioni oggetto di pubblicazione obbligatoria (art. 5, c. 1, d.lgs. n. 33/2013), il solo limite al diritto di conoscere è rappresentato dagli interessi pubblici e privati espressamente indicati dall'articolo 5-bis. Conseguentemente è inammissibile il rifiuto fondato su altre ragioni.
+Come noto, il nuovo istituto differisce dalle altre due tipologie di accesso previste dalla legge. A differenza del diritto di accesso procedimentale o documentale, il diritto di accesso generalizzato garantisce il bene "conoscenza" in via autonoma, a prescindere dalla titolarità di un interesse qualificato e differenziato. A differenza del diritto di accesso civico "semplice", che riguarda esclusivamente le informazioni oggetto di pubblicazione obbligatoria (art. 5, c. 1, `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_), il solo limite al diritto di conoscere è rappresentato dagli interessi pubblici e privati espressamente indicati dall'articolo 5-bis. Conseguentemente è inammissibile il rifiuto fondato su altre ragioni.
 
 Pertanto, il diritto di accesso generalizzato:
 
--  dal punto di vista soggettivo, non ammette restrizioni alla legittimazione del richiedente (art. 5, c. 3, d.lgs. n. 33/2013);
+-  dal punto di vista soggettivo, non ammette restrizioni alla legittimazione del richiedente (art. 5, c. 3, `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_);
 
 -  dal punto di vista oggettivo, è tendenzialmente onnicomprensivo, fatti salvi i limiti indicati dall'art. 5-bis, c. 1-3, oggetto delle Linee guida A.N.AC.
 
@@ -33,7 +33,7 @@ Dal carattere fondamentale del diritto di accesso generalizzato e dal principio 
 
 *i) Il principio della tutela preferenziale dell'interesse conoscitivo*
 
-Nei sistemi FOIA, il diritto di accesso va applicato tenendo conto della tutela preferenziale dell'interesse a conoscere. Pertanto, nei casi di dubbio circa l'applicabilità di una eccezione\ *,* le amministrazioni dovrebbero dare prevalenza all'interesse conoscitivo che la richiesta mira a soddisfare (v. anche Linee guida A.N.AC., § 2.1.).
+Nei sistemi FOIA, il diritto di accesso va applicato tenendo conto della tutela preferenziale dell'interesse a conoscere. Pertanto, nei casi di dubbio circa l'applicabilità di una eccezione, le amministrazioni dovrebbero dare prevalenza all'interesse conoscitivo che la richiesta mira a soddisfare (v. anche Linee guida A.N.AC.).
 
 In base a questo principio, dato che l'istituto dell'accesso generalizzato assicura una più ampia tutela all'interesse conoscitivo, qualora non sia specificato un diverso titolo giuridico della domanda (ad es. procedimentale, ambientale, ecc.), la stessa dovrà essere trattata dall'amministrazione come richiesta di accesso generalizzato.
 
@@ -47,4 +47,4 @@ Qualora una pubblica amministrazione decida di adottare un regolamento interno i
 
 Di conseguenza, ciascuna amministrazione può disciplinare con regolamento, circolare o altro atto interno esclusivamente i profili procedurali e organizzativi di carattere interno. Al contrario, i profili di rilevanza esterna, che incidono sull'estensione del diritto (si pensi alla disciplina dei limiti o delle eccezioni al principio dell'accessibilità), sono coperti dalla suddetta riserva di legge.
 
-In particolare, diversamente da quanto previsto dall'art. 24, c. 6, l. n. 241/1990 in tema di accesso procedimentale, non è possibile individuare (con regolamento, circolare o altro atto interno) le categorie di atti sottratti all'accesso generalizzato. Ciascuna amministrazione è chiamata ad applicare le previsioni legislative rilevanti (art. 5-bis, d.lgs. n. 33/2013), tenendo nella dovuta considerazione le richiamate Linee guida dell'A.N.AC., oggetto di periodico aggiornamento in base all'evoluzione della prassi.
+In particolare, diversamente da quanto previsto dall'art. 24, c. 6, `l. n. 241/1990 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`_ in tema di accesso procedimentale, non è possibile individuare (con regolamento, circolare o altro atto interno) le categorie di atti sottratti all'accesso generalizzato. Ciascuna amministrazione è chiamata ad applicare le previsioni legislative rilevanti (art. 5-bis, `d.lgs. n. 33/2013 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_), tenendo nella dovuta considerazione le richiamate Linee guida dell'A.N.AC., oggetto di periodico aggiornamento in base all'evoluzione della prassi.
