@@ -1,6 +1,6 @@
-########################################################
-Circolare n. 2 del 2017. Attuazione delle norme sul FOIA
-########################################################
+############################################################################
+Accesso civico generalizzato. Norme sull'attuazione, circolare n. 2 del 2017
+############################################################################
 
 La normativa cosiddetta FOIA (Freedom of Information Act), introdotta con `decreto legislativo n. 97 del 2016 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97>`_, è parte integrante del processo di riforma della pubblica amministrazione, 
 definito dalla `legge 7 agosto 2015, n. 124 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124>`_ (c.d. legge Madia).
