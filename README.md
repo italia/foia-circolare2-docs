@@ -1,5 +1,5 @@
-Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato
-==================================================================================
+Accesso civico generalizzato. Norme sull'attuazione, circolare n. 2 del 2017
+============================================================================
 
 Questo repository contiene la documentazione relativa alla Circolare n. 2 del 2017. Attuazione delle norme sull'accesso civico generalizzato (FOIA).
 
